@@ -1,1 +1,1 @@
-from bc import MLPBehaviorCloning
+from .bc import MLPBehaviorCloning
